@@ -1,4 +1,4 @@
-# Pong-no-JavaScript
+# primeiro-repositório
 
 Para copiar o código em HTML
 ```
